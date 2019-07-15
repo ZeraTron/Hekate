@@ -1,0 +1,7 @@
+<changelog>
+	<changes>
+		<version>0.0.1-1</version>
+		<change>Initial release</change>
+		<change>Show a popup when holding power down button</change>
+	</changes>
+</changelog>

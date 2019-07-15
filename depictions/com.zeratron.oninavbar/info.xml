@@ -1,0 +1,29 @@
+<package>
+	<id>com.zeratron.oninavbar</id>
+	<name>Oni Navbar</name>
+	<version>0.0.1-1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>12.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>This is a test package. Firmware should be greater than 12.0</shortDescription>
+	<descriptionlist>
+		<description>Oni Navbar let you take full advantage on your navbar look.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release</change>
+		<change>Show a popup when holding power down button</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
