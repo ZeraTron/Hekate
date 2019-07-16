@@ -2,7 +2,7 @@ Origin: Hekate
 Label: Hekate
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: cydia-ios
 Architectures: iphoneos-arm
 Components: main
 Description: Hekate - a cydia repo
