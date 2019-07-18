@@ -30,19 +30,19 @@ Author: Reposi3 <reposithree@gmail.com>
 Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.oldpackage
 Name: Old Package
 
-Package: com.zeratron.oninavbar
-Version: 0.0.1-1+debug
+Package: com.zeratron.oniframework
+Version: 0.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: ZeraTron
-Installed-Size: 152
+Installed-Size: 372
 Depends: mobilesubstrate
 Filename: debs/com.zeratron.oninavbar_0.0.1-1_iphoneos-arm.deb
-Size: 1808
-MD5sum: 2d3d6806b99279f4f7fdd0a41d982658
-SHA1: 77d458df374679619e862bc30c212c458459f276
-SHA256: 021b7849380594c07edd22b77f6abfaea0204892434f30c955af782e1c276d78
+Size: 11024
+MD5sum: 2d8b264c0bba8e66ff9b20fb4a2d9263
+SHA1: 57aa39504202db16e79983b3866d038b86d8d485
+SHA256: 77170a7730fb6d8d3dbe7f25ac5a12468aa9d701572695e2999ea7d827df5642
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: ZeraTron
-Name: Oni Navbar
+Name: Oni Framework
 
